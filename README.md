@@ -4,6 +4,7 @@
 - Cup
 - Water
 - Tea Bag
+- Spoon
 #### Find your kettle and fill with water.
 - While water is heating up, find your tea bag and place it in your cup;
 #### If kettle starts whistling,
@@ -11,4 +12,4 @@
 - Else let your water continue to heat up.
 #### Add hot water to your tea.
 - Let your tea rest and steep for about 5 minutes.
-- Stir and enjoy!
+- Stir with your spoon and enjoy!
